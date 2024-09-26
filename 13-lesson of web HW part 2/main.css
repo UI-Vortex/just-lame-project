@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nunito+Sans:wght@300;400;500;600;700;900&family=Open+Sans:wght@300;400;500;700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2B3844;
+    width: 100%;
+    height: 80px;
+}
+.title_h2 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 32.74px;
+    color:#FFFFFF;
+    margin-left: 50px;
+}
+.title_child {
+    display: flex;
+    margin-right: 50px;
+}
+.title_h4 {
+    color:#FFFFFF;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21.82px;
+    margin-left: 10px;
+}
+
+.big_section {
+    width: 100%;
+    background-color: #202C36;
+    height: 100vh;
+    overflow: hidden;
+}
+.button_button {
+    transform: translateX(100px) translateY(100px);
+}
+.button_child {
+    border-radius: 10px;
+    padding: 10px 40px;    
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+    background-color: #2B3844;
+    color: #FFFFFF;
+}
+
+.big_image {
+    margin-top: 200px;
+    margin-left: 80px;
+    display: flex;
+}
+.big_title {
+    margin-left: 100px;
+}
+.child {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 43.65px;
+    color:#FFFFFF;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.child_item {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: -10px;
+}
+.i1::after {
+    content: ' België';
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+}
+.i2::after {
+    content: ' 11,319,511';
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+}
+.i3::after {
+    content: ' Europe';
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+}
+.i4::after {
+    content: ' Western Europe';
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+}
+.i5::after {
+    content: ' Brussels';
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+}
+.big_child {
+    margin-top: 85px;
+    margin-left: 150px;
+}
+.child_item2 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #FFFFFF;
+    margin: -10px;
+}
+.i6::after {
+    content: ' .be';
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+}
+.i7::after {
+    content: ' Euro';
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+}
+.i8::after {
+    content: ' Dutch, French, German';
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+}
+.big_child2 {
+    display: flex;
+    margin-left: 670px;
+    transform: translateY(-50px);
+}
+.big_items_alone {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+.items3 {
+    background-color: #2B3844;
+    border: 1px solid #2B3844;
+    padding: 5px 10px;
+    top: 5px;
+    left: 27px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19.1px;
+    margin-right: 10px;
+    color: #FFFFFF;
+}
